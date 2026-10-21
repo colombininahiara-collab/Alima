@@ -1,0 +1,6 @@
+{
+  "name": "Alima",
+  "description": "Planificación alimentaria personalizada y adaptable. Organizá tu semana, adaptá comidas a tus ingredientes y tiempo, y sincronizá tu lista de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
